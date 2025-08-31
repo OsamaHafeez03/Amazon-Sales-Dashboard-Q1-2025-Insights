@@ -4,23 +4,56 @@ This project showcases the development of an end-to-end sales performance dashbo
 
 The dashboard provides a comprehensive overview of key performance indicators (KPIs) and allows for dynamic filtering to explore the data in detail.
 
-# ✨ Key Features & Insights
-Executive KPI Summary: At-a-glance view of critical metrics like Total Sales, Total Orders, Average Order Value (AOV), and Customer Cancellation Rate.
+# 🎯 Objectives
 
-Time-Series Analysis: A monthly trend chart visualizes sales performance and growth, highlighting seasonality and the impact of marketing campaigns.
+Analyze sales transactions from Amazon dataset
 
-Product & Category Analysis: Bar charts identify the most profitable product categories and top-selling individual products, enabling better inventory and marketing focus.
+Identify top-performing products, categories, and regions
 
-Geographical Insights: Analysis of sales by customer location reveals top-performing markets and opportunities for regional growth.
+Evaluate customer preferences through payment methods
 
-Interactive Slicers: Dynamic filters for Year and Customer Location empower users to drill down into the data and uncover specific insights on their own.
+Track order status (Completed, Pending, Cancelled)
 
-# Actionable Insights from the Dashboard:
-Peak Sales Month: Identified March as the highest revenue-generating month.
+Provide management with KPIs & trends for decision-making
 
-Top Category: 'Electronics' stands out as the most significant contributor to total sales.
+# 📊 Dashboard Features
+# 🔹 KPIs (Top Section)
 
-Key Markets: New York and San Francisco are the leading cities in terms of sales volume.
+Total Sales
+
+Total Orders
+
+Total Quantity Sold
+
+Average Sales per Order
+
+Cancelled Orders
+
+#🔹 Visuals
+
+Sales Trends Over Time (Line/Column Chart)
+
+Sales by Products & Categories
+
+Regional Sales Performance (Map & Bar Chart)
+
+Payment Method Analysis (Pie/Bar Chart)
+
+Order Status Tracking (Donut Chart)
+
+Customer Leaderboard (Table)
+
+# 📈 Key Business Insights
+
+Top Products: Refrigerators & Laptops drive majority of revenue
+
+Top Category: Electronics dominates sales
+
+Customer Preference: PayPal & Credit Card are most used payment methods
+
+Order Status: 37% Completed, 36% Cancelled, 26% Pending (room for improvement in operations)
+
+Sales Trends: Peak sales observed in February & March
 
 # 🛠️ Technical Implementation
 This project followed a structured business intelligence workflow to ensure data accuracy, model efficiency, and a user-friendly final product.
