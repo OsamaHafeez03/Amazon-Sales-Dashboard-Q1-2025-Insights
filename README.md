@@ -1,10 +1,10 @@
 # Amazon-Sales-Dashboard-Q1-2025-Insights
-#📖 Project Overview
+# 📖 Project Overview
 This project showcases the development of an end-to-end sales performance dashboard using Microsoft Power BI. The primary objective was to transform raw transactional data from a CSV file into an interactive, insightful, and visually appealing dashboard. This tool is designed to help business stakeholders understand sales trends, identify top-performing products and regions, and make data-driven decisions.
 
 The dashboard provides a comprehensive overview of key performance indicators (KPIs) and allows for dynamic filtering to explore the data in detail.
 
-#✨ Key Features & Insights
+# ✨ Key Features & Insights
 Executive KPI Summary: At-a-glance view of critical metrics like Total Sales, Total Orders, Average Order Value (AOV), and Customer Cancellation Rate.
 
 Time-Series Analysis: A monthly trend chart visualizes sales performance and growth, highlighting seasonality and the impact of marketing campaigns.
